@@ -1,0 +1,2 @@
+cd 'C:\Users\ryan.kong\Documents\phaser game\'
+python3 -m http.server
