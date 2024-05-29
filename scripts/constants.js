@@ -1,4 +1,4 @@
-const WIDTH = 800;
+const WIDTH = 1400;
 const HEIGHT = 600;
 
 // enums
@@ -9,5 +9,12 @@ const TEXTURES = {
             idle: "warrior_idle",
             attack: "warrior_attack",
         }
+    },
+    bullets: {
+        bullet: "bullet"
     }
+}
+
+const ANIMS = {
+    
 }
